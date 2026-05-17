@@ -1,0 +1,9 @@
+{
+  "properties": {
+    "os.name": "OpenFuture",
+    "os.version": "2.1.0.100",
+    "build.type": "development"
+  },
+  "services": {},
+  "processes": {}
+}
