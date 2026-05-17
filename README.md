@@ -1,5 +1,3 @@
- OpenFuture 开发者指南
-
 # OpenFuture 模拟操作系统
 
 本项目构建了一个名为 **OpenFuture** 的 Python 模拟操作系统。系统文件保存在 `/rootfs` 目录下，包含 `boot`、`system`、`vendor` 三个必要分区。
