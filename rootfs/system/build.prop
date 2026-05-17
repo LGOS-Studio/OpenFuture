@@ -1,0 +1,6 @@
+# OpenFuture system properties
+/rootfs/system at /dev/sd0
+
+[virtio]
+build=auto;
+startup=true;
