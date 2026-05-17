@@ -1,0 +1,8 @@
+{
+  "name": "LGOS VirtIO++",
+  "version": "3.0.1",
+  "short": "virtio",
+  "vendor": "LGOS",
+  "description": "通用虚拟设备驱动（VirtIO），用于虚拟化环境的网络/块/控制器加速。",
+  "status": "installed"
+}
