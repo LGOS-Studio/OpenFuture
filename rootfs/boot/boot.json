@@ -1,0 +1,15 @@
+{
+  "kernel": "openfuture-kernel.img",
+  "bootargs": [
+    "root=/dev/rootfs",
+    "console=tty0"
+  ],
+  "services": [
+    "init",
+    "logger",
+    "network"
+  ],
+  "kernels": [
+    "openfuture-kernel.img"
+  ]
+}
